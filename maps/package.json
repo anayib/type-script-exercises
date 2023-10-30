@@ -12,6 +12,7 @@
     "@faker-js/faker": "^8.2.0"
   },
   "devDependencies": {
+    "@types/google.maps": "^3.54.5",
     "buffer": "^6.0.3"
   }
 }
